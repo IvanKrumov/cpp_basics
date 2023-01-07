@@ -1,0 +1,9 @@
+/.vscode/
+/.vscode/*.json
+/.vscode/*
+*.json
+!main.cpp
+main
+/Docs
+
+
